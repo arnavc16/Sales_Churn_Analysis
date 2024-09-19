@@ -57,8 +57,8 @@ Visualizations for model performance, including confusion matrices and ROC curve
 The insights and predictions from the analysis were visualized in a Power BI dashboard. This dashboard provides a comprehensive view of customer demographics, service usage, and churn predictions.
 
 ### Power BI Files:
-- **Power BI Dashboard:** [Download Power BI File](https://github.com/arnavc16/Sales_Churn_Analysis/blob/main/docs/churn_dashboard.pbix)
-- **PDF Report:** [Download PDF Report](https://github.com/arnavc16/Sales_Churn_Analysis/blob/main/docs/churn_report.pdf)
+- **Power BI Dashboard:** [Download Power BI File](https://github.com/arnavc16/Sales_Churn_Analysis/blob/main/docs/churn.pbix)
+- **PDF Report:** [Download PDF Report](https://github.com/arnavc16/Sales_Churn_Analysis/blob/main/docs/churn.pdf)
 
 ## Installation
 To run this project locally, follow these steps:
@@ -83,7 +83,7 @@ To run this project locally, follow these steps:
 - The Power BI dashboard provides interactive insights into customer behavior and churn patterns.
 
 ## References
-- Telco Customer Churn Dataset
+- Telco Customer Churn Dataset (https://www.kaggle.com/blastchar/telco-customer-churn)
 - Scikit-learn Documentation
 - Power BI Documentation
 
