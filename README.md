@@ -72,15 +72,20 @@ To run this project locally, follow these steps:
 
 3. Run the Jupyter notebook churn.ipynb in the notebooks/ directory.
 
-Usage
-Open the churn.ipynb notebook and run the cells sequentially to reproduce the analysis.
-View the Power BI dashboard using Power BI Desktop.
-The dashboard file and the PDF report can be found in the docs/ directory.
-Results and Insights
-The Random Forest model was the most accurate in predicting customer churn.
-Customers with short tenure, high monthly charges, and no contract are more likely to churn.
-The Power BI dashboard provides interactive insights into customer behavior and churn patterns.
-References
-Telco Customer Churn Dataset
-Scikit-learn Documentation
-Power BI Documentation
+## Usage
+1. Open the churn.ipynb notebook and run the cells sequentially to reproduce the analysis.
+2. View the Power BI dashboard using Power BI Desktop.
+3. The dashboard and PDF reports can be found in the docs/ directory.
+
+## Results and Insights
+- The Random Forest model was the most accurate in predicting customer churn.
+- Customers with short tenure, high monthly charges, and no contract are more likely to churn.
+- The Power BI dashboard provides interactive insights into customer behavior and churn patterns.
+
+## References
+- Telco Customer Churn Dataset
+- Scikit-learn Documentation
+- Power BI Documentation
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
